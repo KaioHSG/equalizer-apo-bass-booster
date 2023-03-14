@@ -20,5 +20,5 @@ You should now have something similar to the image below.
 Done! Now you can modify the equalizer.
 ![Captura de tela 2023-03-13 190240](https://user-images.githubusercontent.com/96930584/224845906-8d81705c-c2c2-4e9a-bd07-5177ee5f28b5.png)
 
-### Nota:
+### Note: 
 Configuration made with the Havit HV-H2002D headset, as it is not synonymous with quality, the configuration may be bad on your device.
