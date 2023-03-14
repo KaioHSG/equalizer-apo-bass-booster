@@ -4,8 +4,8 @@ Are you looking for a configuration that increases the bass of your sound, but y
 ![image](https://user-images.githubusercontent.com/96930584/224847547-e498f70f-72da-413b-8a55-e55551bb2879.png)
 
 ## How to use:
-* [Download](https://equalizerapo.com/download.html) and install Equalizer APO.
-* [Download](https://github.com/KaioHSG/EqualizerApoBassBooster/releases) the "bass_booster.txt".
+* Download and install [Equalizer APO](https://equalizerapo.com/download.html).
+* Download the "[bass_booster.txt](https://github.com/KaioHSG/EqualizerApoBassBooster/releases)".
 * Place the downloaded file in the settings directory (usually in "C:\Program Files\EqualizerAPO\config").
 * Open Equalizer APO and go to "Add filter" > "Include".
 * In the Include text box write the name of the file ("bass_booster.txt").
