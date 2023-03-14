@@ -1,4 +1,4 @@
-# Equalizer APO Bass Booster Config
+# Equalizer APO Bass Boost Config
 Are you looking for a configuration that increases the bass of your sound, but you don't know how to use Equalizer APO? Your problems are gone! This is a simple setup that enhances the bass, it may need some modification to make it perfect, but it's a start.
 
 ![image](https://user-images.githubusercontent.com/96930584/224847547-e498f70f-72da-413b-8a55-e55551bb2879.png)
