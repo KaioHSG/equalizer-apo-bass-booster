@@ -11,14 +11,15 @@ Are you looking for a configuration that increases the bass of your sound, but y
 * In the Include text box write the name of the file (`bass_booster.txt`).
 
 You should now have something similar to the image below.
+
 ![image](https://user-images.githubusercontent.com/96930584/224846969-6a2d93f8-e272-4756-b5a1-8be654b39f89.png)
 
 ## How to modify:
-* Inside Equalizer APO go to `File` > `Open`.
-* Open the downloaded file (`bass_booster.txt`).
+* Click on the green arrow. ![image](https://github.com/KaioHSG/EqualizerApoBassBooster/assets/96930584/df7148eb-b582-4b0a-a1a3-7124d2c9b74e)
 
-Done! Now you can modify the equalizer.
-![Captura de tela 2023-03-13 190240](https://user-images.githubusercontent.com/96930584/224845906-8d81705c-c2c2-4e9a-bd07-5177ee5f28b5.png)
+Now you can modify the equalizer.
+
+![image](https://user-images.githubusercontent.com/96930584/224845906-8d81705c-c2c2-4e9a-bd07-5177ee5f28b5.png)
 
 ## Note: 
 Configuration made with the Havit HV-H2002D headset, as it is not synonymous with quality, the configuration may be bad on your device.
