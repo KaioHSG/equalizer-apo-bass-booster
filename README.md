@@ -1,21 +1,28 @@
 # Equalizer APO Bass Booster Config
+
 Are you looking for a configuration that increases the bass of your sound, but you don't know how to use Equalizer APO? Your problems are gone! This is a simple setup that enhances the bass, it may need some modification to make it perfect, but it's a start.
 
 ![image](https://user-images.githubusercontent.com/96930584/224847547-e498f70f-72da-413b-8a55-e55551bb2879.png)
 
 ## How to use:
-* Download and install **[Equalizer APO](https://equalizerapo.com/download.html)**.
-* Download the **[bass_booster.txt](https://github.com/KaioHSG/EqualizerApoBassBooster/releases)**.
-* Place the downloaded file in the settings directory (usually in `C:\Program Files\EqualizerAPO\config`).
-* Open Equalizer APO and go to `Add filter` > `Include`.
-* In the Include text box write the name of the file (`bass_booster.txt`).
+
+**1**. Download and install [**Equalizer APO**](https://equalizerapo.com/download.html).
+
+**2**. Download the [**bass_booster.txt**](https://github.com/KaioHSG/EqualizerApoBassBooster/releases/latest).
+
+**3**. Place the downloaded file in the settings directory (usually in `C:\Program Files\EqualizerAPO\config`).
+
+**4**. Open Equalizer APO and go to `Add filter` > `Include`.
+
+**5**. In the Include text box write the name of the file (`bass_booster.txt`).
 
 You should now have something similar to the image below.
 
 ![image](https://user-images.githubusercontent.com/96930584/224846969-6a2d93f8-e272-4756-b5a1-8be654b39f89.png)
 
 ## How to modify:
-* Click on the green arrow. ![image](https://github.com/KaioHSG/EqualizerApoBassBooster/assets/96930584/df7148eb-b582-4b0a-a1a3-7124d2c9b74e)
+
+**1**. Click on the green arrow. ![image](https://github.com/KaioHSG/EqualizerApoBassBooster/assets/96930584/df7148eb-b582-4b0a-a1a3-7124d2c9b74e)
 
 Now you can modify the equalizer.
 
