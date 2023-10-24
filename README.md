@@ -24,7 +24,7 @@ You should now have something similar to the image below.
 
 ## How to modify?
 
-**1**. Click on the green arrow. ![Green arrow](https://github.com/KaioHSG/EqualizerApoBassBooster/assets/96930584/df7148eb-b582-4b0a-a1a3-7124d2c9b74e.png)
+**1**. Click on the green arrow ![Green arrow](https://github.com/KaioHSG/EqualizerApoBassBooster/assets/96930584/df7148eb-b582-4b0a-a1a3-7124d2c9b74e.png).
 
 Now you can modify the equalizer.
 
@@ -32,4 +32,4 @@ Now you can modify the equalizer.
 
 ## Note
 
-Configuration made with the Havit HV-H2002D headset, as it is not synonymous with quality, the configuration may be bad on your device.
+Configuration made with the [Havit HV-H2002D](https://www.google.com/search?q=Havit+HV-H2002D) headset, as it is not synonymous with quality, the configuration may be bad on your device.
