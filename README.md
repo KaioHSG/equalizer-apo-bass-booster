@@ -32,4 +32,5 @@ Now you can modify the equalizer.
 
 ## Note
 
-Configuration made with the [Havit HV-H2002D](https://www.google.com/search?q=Havit+HV-H2002D) headset, as it is not synonymous with quality, the configuration may be bad on your device.
+Configuration made with the [Havit HV-H2002D](https://www.google.com/search?q=Havit+HV-H2002D) headset, as it is not 
+synonymous with quality, the configuration may be bad on your device.
