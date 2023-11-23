@@ -14,7 +14,7 @@ but it's a start.
 
 **3**. Place the downloaded file in the settings directory (usually in `C:\Program Files\EqualizerAPO\config`).
 
-**4**. Open Equalizer APO and go to `Add filter` > `Include`.
+**4**. Open Equalizer APO and go to `Add filter` > `Control` > `Include`.
 
 **5**. In the Include text box write the name of the file (`bass_booster.txt`).
 
