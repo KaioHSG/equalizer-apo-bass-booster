@@ -8,9 +8,9 @@ but it's a start.
 
 ## How to use?
 
-**1**. Download and install <a href="https://equalizerapo.com/download.html" target="_blank">**Equalizer APO**</a>.
+**1**. Download and install [**Equalizer APO**](https://equalizerapo.com/download.html).
 
-**2**. Download the <a href="https://github.com/KaioHSG/EqualizerApoBassBooster/releases/latest/" target="_blank">**bass_booster.txt**</a>.
+**2**. Download the [**bass_booster.txt**](https://github.com/KaioHSG/EqualizerApoBassBooster/releases/latest).
 
 **3**. Place the downloaded file in the settings directory (usually in `C:\Program Files\EqualizerAPO\config`).
 
@@ -32,5 +32,5 @@ Now you can modify the equalizer.
 
 ## Note
 
-Configuration made with the <a href="https://www.google.com/search?q=Havit+HV-H2002D/" target="_blank">Havit HV-H2002D</a> headset, as it is not 
+Configuration made with the [Havit HV-H2002D](https://www.google.com/search?q=Havit+HV-H2002D) headset, as it is not 
 synonymous with quality, the configuration may be bad on your device.
