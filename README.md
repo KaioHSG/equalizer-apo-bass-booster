@@ -10,7 +10,7 @@ but it's a start.
 
 **1**. Download and install [**Equalizer APO**](https://equalizerapo.com/download.html).
 
-**2**. Download the [**bass_booster.txt**](https://github.com/KaioHSG/EqualizerApoBassBooster/releases/latest).
+**2**. Download the [**bass_booster.txt**](https://github.com/kaiohsg/equalizer-apo-bass-booster/releases/latest).
 
 **3**. Place the downloaded file in the settings directory (usually in `C:\Program Files\EqualizerAPO\config`).
 
