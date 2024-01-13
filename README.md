@@ -1,4 +1,4 @@
-[![Version](https://img.shields.io/badge/version-1.0-green)](https://github.com/KaioHSG/gui-ssd-slow-mark/releases/latest)
+[![Version](https://img.shields.io/badge/version-1.0-green)](https://github.com/KaioHSG/equalizer-apo-bass-booster/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/KaioHSG/equalizer-apo-bass-booster/total)](https://github.com/KaioHSG/equalizer-apo-bass-booster/releases)
 
 # Equalizer APO Bass Booster
