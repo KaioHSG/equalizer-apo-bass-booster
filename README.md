@@ -1,3 +1,5 @@
+[![Downloads](https://img.shields.io/github/downloads/KaioHSG/equalizer-apo-bass-booster/total)](https://github.com/KaioHSG/equalizer-apo-bass-booster/releases)
+
 # Equalizer APO Bass Booster
 
 Are you looking for a configuration that increases the bass of your sound, but you don't know how to use Equalizer APO? 
