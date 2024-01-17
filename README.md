@@ -7,7 +7,7 @@ Are you looking for a configuration that increases the bass of your sound, but y
 Your problems are gone! This is a simple setup that enhances the bass, it may need some modification to make it perfect, 
 but it's a start.
 
-![Equalizer graph](https://user-images.githubusercontent.com/96930584/224847547-e498f70f-72da-413b-8a55-e55551bb2879.png)
+[![Equalizer graph](https://user-images.githubusercontent.com/96930584/224847547-e498f70f-72da-413b-8a55-e55551bb2879.png)](#)
 
 ## How to use?
 
@@ -23,7 +23,7 @@ but it's a start.
 
 You should now have something similar to the image below.
 
-![Bass Booster in Equalizer APO](https://user-images.githubusercontent.com/96930584/224846969-6a2d93f8-e272-4756-b5a1-8be654b39f89.png)
+[![Bass Booster in Equalizer APO](https://user-images.githubusercontent.com/96930584/224846969-6a2d93f8-e272-4756-b5a1-8be654b39f89.png)](#)
 
 ## How to modify?
 
@@ -31,7 +31,7 @@ You should now have something similar to the image below.
 
 Now you can modify the equalizer.
 
-![Bass Booster editor](https://user-images.githubusercontent.com/96930584/224845906-8d81705c-c2c2-4e9a-bd07-5177ee5f28b5.png)
+[![Bass Booster editor](https://user-images.githubusercontent.com/96930584/224845906-8d81705c-c2c2-4e9a-bd07-5177ee5f28b5.png)](#)
 
 ## Note
 
