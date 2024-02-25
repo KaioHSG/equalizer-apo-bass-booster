@@ -11,15 +11,11 @@ but it's a start.
 
 ## How to use?
 
-**1**. Download and install [**Equalizer APO**](https://equalizerapo.com/download.html).
-
-**2**. Download the [**bass_booster.txt**](https://github.com/kaiohsg/equalizer-apo-bass-booster/releases/latest).
-
-**3**. Place the downloaded file in the settings directory (usually in `C:\Program Files\EqualizerAPO\config`).
-
-**4**. Open Equalizer APO and go to `Add filter` > `Control` > `Include`.
-
-**5**. In the Include text box write the name of the file (`bass_booster.txt`).
+1. Download and install [**Equalizer APO**](https://equalizerapo.com/download.html).
+2. Download the [**bass_booster.txt**](https://github.com/kaiohsg/equalizer-apo-bass-booster/releases/latest).
+3. Place the downloaded file in the settings directory (usually in `C:\Program Files\EqualizerAPO\config`).
+4. Open Equalizer APO and go to `Add filter` > `Control` > `Include`.
+5. In the Include text box write the name of the file (`bass_booster.txt`).
 
 You should now have something similar to the image below.
 
@@ -27,7 +23,7 @@ You should now have something similar to the image below.
 
 ## How to modify?
 
-**1**. Click on the green arrow ![Green arrow](https://github.com/KaioHSG/EqualizerApoBassBooster/assets/96930584/df7148eb-b582-4b0a-a1a3-7124d2c9b74e.png).
+1. Click on the green arrow ![Green arrow](https://github.com/KaioHSG/EqualizerApoBassBooster/assets/96930584/df7148eb-b582-4b0a-a1a3-7124d2c9b74e.png).
 
 Now you can modify the equalizer.
 
