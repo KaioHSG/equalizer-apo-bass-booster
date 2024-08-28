@@ -1,4 +1,4 @@
-[![Version](https://img.shields.io/badge/version-1.0-green)](https://github.com/KaioHSG/equalizer-apo-bass-booster/releases/latest)
+[![Version](https://img.shields.io/badge/version-1.0-green)](https://github.com/KaioHSG/equalizer-apo-bass-booster/releases/tag/1.0)
 [![Downloads](https://img.shields.io/github/downloads/KaioHSG/equalizer-apo-bass-booster/total)](https://github.com/KaioHSG/equalizer-apo-bass-booster/releases)
 
 # Equalizer APO Bass Booster
@@ -31,5 +31,5 @@ Now you can modify the equalizer.
 
 ## Note
 
-Configuration made with the [Havit HV-H2002D](https://havitsmart.com/products/h2002d) headset, as it is not 
+Configuration made with the [Havit HV-H2002D](https://havitsmart.com/products/h2002d-gaming-headphones) headset, as it is not 
 synonymous with quality, the configuration may be bad on your device.
