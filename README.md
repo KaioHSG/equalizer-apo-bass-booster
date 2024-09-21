@@ -1,4 +1,4 @@
-[![Release](https://img.shields.io/github/v/release/KaioHSG/equalizer-apo-bass-booster?color=green)](https://github.com/KaioHSG/equalizer-apo-bass-booster/releases/latest)
+[![Release](https://img.shields.io/github/v/release/KaioHSG/equalizer-apo-bass-booster)](https://github.com/KaioHSG/equalizer-apo-bass-booster/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/KaioHSG/equalizer-apo-bass-booster/total)](https://github.com/KaioHSG/equalizer-apo-bass-booster/releases)
 
 # Equalizer APO Bass Booster
