@@ -1,5 +1,6 @@
 [![Release](https://img.shields.io/github/v/release/KaioHSG/equalizer-apo-bass-booster)](https://github.com/KaioHSG/equalizer-apo-bass-booster/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/KaioHSG/equalizer-apo-bass-booster/total)](https://github.com/KaioHSG/equalizer-apo-bass-booster/releases)
+[![VirusTotal](https://img.shields.io/badge/virustotal-status-navy)](https://www.virustotal.com/gui/file/87c553d8f312da027b787aa497bfc53a52548d6bdb2db283482c0b007e21a87f)
 
 # Equalizer APO Bass Booster
 
